@@ -1,2 +1,2 @@
 # pyGrasshopper
-python component creation for Rhino/Grasshopper
+python component creation for Rhino/Grasshopper (coming soon)
